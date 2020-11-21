@@ -3,7 +3,7 @@
 
 This repository is Pytorch code for our proposed MoG-DUN.
 
-The code is developed by [RCAN](https://github.com/yulunzhang/RCAN)  and tested on Ubuntu 16.04 environment (Python 3.5/3.6/3.7, PyTorch 1.0.0/1.0.1, 9.0/10.0) with 2080Ti/1080Ti GPUs.
+The code is built on [RCAN](https://github.com/yulunzhang/RCAN)  and tested on Ubuntu 16.04 environment (Python 3.5/3.6/3.7, PyTorch 1.0.0/1.0.1, 9.0/10.0) with 2080Ti/1080Ti GPUs.
 
 
 If you find our work useful in your research or publications, please consider citing:
@@ -47,7 +47,7 @@ If you find our work useful in your research or publications, please consider ci
    cd code_AG
    sh test.sh
    ```
-3. Finally, PSNR values are shown on your screen, you can find the reconstruction images in `../experiment/xx/results/`. 
+3. Finally, PSNR values are shown on your screen, you can find the reconstruction images in `../experiment/xx/results/`
 
 
 ## Acknowledgements
