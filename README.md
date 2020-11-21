@@ -18,7 +18,7 @@ If you find our work useful in your research or publications, please consider ci
   number={},
   pages={1-1},
   doi={10.1109/JSTSP.2020.3037516}}
-
+```
 
 ## Contents
 1. [Requirements](#Requirements)
@@ -43,10 +43,10 @@ If you find our work useful in your research or publications, please consider ci
 1. If you have cloned this repository, the pre-trained models can be found in experiment fold and test dataset Set5 can be found in data fold.
 
 2. Then, run command:
-   
+   ```
    cd code_AG
    sh test.sh
-   
+   ```
 3. Finally, PSNR values are shown on your screen, you can find the reconstruction images in `../experiment/xx/results/`. 
 
 
